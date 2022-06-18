@@ -43,8 +43,7 @@ With a little bit of CSS styling,
 ![a section of my portfolio page showing the rendered output](./static/snippet.png)
 
 ## Dependancies
-Only built-in modules are used, namely `os` (for path handling) and `re` (for regex capturing).<br>
-Included a `requirements.txt` just for the sake of it.
+No external dependancies used.
 
 ## Syntax
 
